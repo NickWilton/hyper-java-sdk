@@ -4,7 +4,7 @@
 
 This SDK can be used to connect to the Hyper.sh API interface to execute various commands documented at [https://docs.hyper.sh/](https://docs.hyper.sh/).
 
-The a simple usage example is as follows:
+A simple usage example is as follows:
 ```java
 // Initialize instance
 Hyper hyper = Hyper.getInstance("ACCESS-KEY-XXXXXXXXXXXXX", "SECRET-KEY-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
