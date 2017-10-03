@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Richard Lucas
+ * Modified from code by @author Richard Lucas
  */
 public class HyperSigner {
 
